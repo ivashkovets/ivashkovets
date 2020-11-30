@@ -129,7 +129,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
-@media (min-width:770px){
+@media (min-width:1024px){
     .header.color:before{
         background: #19bd9a;
     }
@@ -140,7 +140,7 @@
         margin-top: 0px;
     }
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     body.lock{
         overflow: hidden;
     }
@@ -287,7 +287,7 @@
 .s2-img__ipad img{
     width: 100%;
 }
-@media (max-width:768px){
+@media (max-width:1024px){
     .s2-text{
         margin-top: 80px;
     }
@@ -452,7 +452,7 @@
 .s3-bla__box{
     display: flex;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s3-bla3{
         margin-left: 30px;
     }
@@ -873,7 +873,7 @@ margin-left: 20px;
 .wrap{
     margin-bottom: 180px;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s5-text__item2{
         width: 90%;
         margin-top: 40px;
@@ -1853,7 +1853,7 @@ margin-left: 20px;
 }
 
 
-@media (max-width: 769px)
+@media (max-width: 1024px)
 {
     .s8-zag__item2{
         padding-top: 30px;
@@ -2033,7 +2033,7 @@ margin-left: 20px;
 .s9-wrap{
     margin-bottom: 100px;
 }
-@media (max-width: 769px){
+@media (max-width: 1024px){
     .s9-zag__item2{
         width: 90%;
     }
@@ -2175,7 +2175,7 @@ margin-left: 20px;
     border-radius: 50%;
 }
 
-@media (max-width:769px){
+@media (max-width:1024px){
     .new-zag__item2{
         padding-top: 39px;
         width: 90%;
@@ -2301,7 +2301,7 @@ margin-left: 20px;
 .plusi-exclusiv.active{
     display: block;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s11-zag__item2{
         padding-top: 35px;
         padding-bottom: 50px;
@@ -2375,7 +2375,7 @@ margin-left: 20px;
     font-weight: 400;
     font-family: 'Open Sans', sans-serif;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s12-zag__item2{
         width: 90%;
         margin: 0 auto;
@@ -2472,7 +2472,7 @@ margin-left: 20px;
 .contact-info__item2{
     padding-bottom: 30px;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s13-zag__item2{
         width: 90%;
     }
@@ -2533,7 +2533,7 @@ margin-left: 20px;
     font-weight: 400;
     font-family: 'Open Sans', sans-serif;
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .form-group1{
         margin-right: 0px;
         margin-top: 20px;
