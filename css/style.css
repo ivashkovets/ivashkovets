@@ -607,7 +607,7 @@
 .s4-f__i2:hover{
     background-color: rgba(0,0,0,0.75);
 }
-@media (max-width:769px){
+@media (max-width:1024px){
     .s4-text__item2{
         margin-left: 3%;
         width: 95%;
@@ -985,7 +985,7 @@ margin-left: 20px;
 .s6-two__item2{
     margin-top: -125px;
 }
-@media (max-width: 769px)
+@media (max-width: 1024px)
 {
     .s6-tow{
         display: block;
@@ -1691,7 +1691,7 @@ margin-left: 20px;
 {
     color: #19bd9a;
 }
-@media (max-width: 769px){
+@media (max-width: 1024px){
     .s7-zag__item2{
         margin-top: 30px;
         width: 90%;
